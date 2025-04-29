@@ -1,0 +1,6 @@
+flask
+torch
+numpy
+Pillow
+realesrgan
+basicsr

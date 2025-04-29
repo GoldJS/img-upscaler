@@ -1,0 +1,1 @@
+https://huggingface.co/dtarnow/UPscaler/blob/main/RealESRGAN_x2plus.pth

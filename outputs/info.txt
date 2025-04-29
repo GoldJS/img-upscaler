@@ -1,0 +1,1 @@
+Your upscaled images will be saved here and will be deleted after an hour has passed while the application runs.
